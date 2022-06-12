@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "onion.application/1.0.0": {
+        "dependencies": {
+          "onion.domain": "1.0.0"
+        },
+        "runtime": {
+          "onion.application.dll": {}
+        }
+      },
+      "onion.domain/1.0.0": {
+        "runtime": {
+          "onion.domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "onion.application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "onion.domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+D:\_0All\dotnet\az-dev\onion\onion-crm\onion.contracts\bin\Debug\net6.0\onion.contracts.deps.json
+D:\_0All\dotnet\az-dev\onion\onion-crm\onion.contracts\bin\Debug\net6.0\onion.contracts.dll
+D:\_0All\dotnet\az-dev\onion\onion-crm\onion.contracts\bin\Debug\net6.0\onion.contracts.pdb
+D:\_0All\dotnet\az-dev\onion\onion-crm\onion.contracts\obj\Debug\net6.0\onion.contracts.csproj.AssemblyReference.cache
+D:\_0All\dotnet\az-dev\onion\onion-crm\onion.contracts\obj\Debug\net6.0\onion.contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\_0All\dotnet\az-dev\onion\onion-crm\onion.contracts\obj\Debug\net6.0\onion.contracts.AssemblyInfoInputs.cache
+D:\_0All\dotnet\az-dev\onion\onion-crm\onion.contracts\obj\Debug\net6.0\onion.contracts.AssemblyInfo.cs
+D:\_0All\dotnet\az-dev\onion\onion-crm\onion.contracts\obj\Debug\net6.0\onion.contracts.csproj.CoreCompileInputs.cache
+D:\_0All\dotnet\az-dev\onion\onion-crm\onion.contracts\obj\Debug\net6.0\onion.contracts.dll
+D:\_0All\dotnet\az-dev\onion\onion-crm\onion.contracts\obj\Debug\net6.0\refint\onion.contracts.dll
+D:\_0All\dotnet\az-dev\onion\onion-crm\onion.contracts\obj\Debug\net6.0\onion.contracts.pdb
+D:\_0All\dotnet\az-dev\onion\onion-crm\onion.contracts\obj\Debug\net6.0\ref\onion.contracts.dll

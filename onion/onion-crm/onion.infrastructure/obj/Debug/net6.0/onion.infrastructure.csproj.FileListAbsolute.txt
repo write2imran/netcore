@@ -1,0 +1,17 @@
+D:\_0All\dotnet\az-dev\onion\onion-crm\onion.infrastructure\bin\Debug\net6.0\onion.infrastructure.deps.json
+D:\_0All\dotnet\az-dev\onion\onion-crm\onion.infrastructure\bin\Debug\net6.0\onion.infrastructure.dll
+D:\_0All\dotnet\az-dev\onion\onion-crm\onion.infrastructure\bin\Debug\net6.0\onion.infrastructure.pdb
+D:\_0All\dotnet\az-dev\onion\onion-crm\onion.infrastructure\bin\Debug\net6.0\onion.application.dll
+D:\_0All\dotnet\az-dev\onion\onion-crm\onion.infrastructure\bin\Debug\net6.0\onion.domain.dll
+D:\_0All\dotnet\az-dev\onion\onion-crm\onion.infrastructure\bin\Debug\net6.0\onion.application.pdb
+D:\_0All\dotnet\az-dev\onion\onion-crm\onion.infrastructure\bin\Debug\net6.0\onion.domain.pdb
+D:\_0All\dotnet\az-dev\onion\onion-crm\onion.infrastructure\obj\Debug\net6.0\onion.infrastructure.csproj.AssemblyReference.cache
+D:\_0All\dotnet\az-dev\onion\onion-crm\onion.infrastructure\obj\Debug\net6.0\onion.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\_0All\dotnet\az-dev\onion\onion-crm\onion.infrastructure\obj\Debug\net6.0\onion.infrastructure.AssemblyInfoInputs.cache
+D:\_0All\dotnet\az-dev\onion\onion-crm\onion.infrastructure\obj\Debug\net6.0\onion.infrastructure.AssemblyInfo.cs
+D:\_0All\dotnet\az-dev\onion\onion-crm\onion.infrastructure\obj\Debug\net6.0\onion.infrastructure.csproj.CoreCompileInputs.cache
+D:\_0All\dotnet\az-dev\onion\onion-crm\onion.infrastructure\obj\Debug\net6.0\onion.infrastructure.csproj.CopyComplete
+D:\_0All\dotnet\az-dev\onion\onion-crm\onion.infrastructure\obj\Debug\net6.0\onion.infrastructure.dll
+D:\_0All\dotnet\az-dev\onion\onion-crm\onion.infrastructure\obj\Debug\net6.0\refint\onion.infrastructure.dll
+D:\_0All\dotnet\az-dev\onion\onion-crm\onion.infrastructure\obj\Debug\net6.0\onion.infrastructure.pdb
+D:\_0All\dotnet\az-dev\onion\onion-crm\onion.infrastructure\obj\Debug\net6.0\ref\onion.infrastructure.dll

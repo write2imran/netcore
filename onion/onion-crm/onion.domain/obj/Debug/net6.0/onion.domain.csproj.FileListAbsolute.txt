@@ -1,0 +1,12 @@
+D:\_0All\dotnet\az-dev\onion\onion-crm\onion.domain\bin\Debug\net6.0\onion.domain.deps.json
+D:\_0All\dotnet\az-dev\onion\onion-crm\onion.domain\bin\Debug\net6.0\onion.domain.dll
+D:\_0All\dotnet\az-dev\onion\onion-crm\onion.domain\bin\Debug\net6.0\onion.domain.pdb
+D:\_0All\dotnet\az-dev\onion\onion-crm\onion.domain\obj\Debug\net6.0\onion.domain.csproj.AssemblyReference.cache
+D:\_0All\dotnet\az-dev\onion\onion-crm\onion.domain\obj\Debug\net6.0\onion.domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\_0All\dotnet\az-dev\onion\onion-crm\onion.domain\obj\Debug\net6.0\onion.domain.AssemblyInfoInputs.cache
+D:\_0All\dotnet\az-dev\onion\onion-crm\onion.domain\obj\Debug\net6.0\onion.domain.AssemblyInfo.cs
+D:\_0All\dotnet\az-dev\onion\onion-crm\onion.domain\obj\Debug\net6.0\onion.domain.csproj.CoreCompileInputs.cache
+D:\_0All\dotnet\az-dev\onion\onion-crm\onion.domain\obj\Debug\net6.0\onion.domain.dll
+D:\_0All\dotnet\az-dev\onion\onion-crm\onion.domain\obj\Debug\net6.0\refint\onion.domain.dll
+D:\_0All\dotnet\az-dev\onion\onion-crm\onion.domain\obj\Debug\net6.0\onion.domain.pdb
+D:\_0All\dotnet\az-dev\onion\onion-crm\onion.domain\obj\Debug\net6.0\ref\onion.domain.dll

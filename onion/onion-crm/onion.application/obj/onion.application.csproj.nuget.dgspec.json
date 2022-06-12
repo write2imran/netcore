@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\_0All\\dotnet\\az-dev\\onion\\onion-crm\\onion.application\\onion.application.csproj": {}
+  },
+  "projects": {
+    "D:\\_0All\\dotnet\\az-dev\\onion\\onion-crm\\onion.application\\onion.application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\_0All\\dotnet\\az-dev\\onion\\onion-crm\\onion.application\\onion.application.csproj",
+        "projectName": "onion.application",
+        "projectPath": "D:\\_0All\\dotnet\\az-dev\\onion\\onion-crm\\onion.application\\onion.application.csproj",
+        "packagesPath": "C:\\Users\\imran\\.nuget\\packages\\",
+        "outputPath": "D:\\_0All\\dotnet\\az-dev\\onion\\onion-crm\\onion.application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\imran\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\_0All\\dotnet\\az-dev\\onion\\onion-crm\\onion.domain\\onion.domain.csproj": {
+                "projectPath": "D:\\_0All\\dotnet\\az-dev\\onion\\onion-crm\\onion.domain\\onion.domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\_0All\\dotnet\\az-dev\\onion\\onion-crm\\onion.domain\\onion.domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\_0All\\dotnet\\az-dev\\onion\\onion-crm\\onion.domain\\onion.domain.csproj",
+        "projectName": "onion.domain",
+        "projectPath": "D:\\_0All\\dotnet\\az-dev\\onion\\onion-crm\\onion.domain\\onion.domain.csproj",
+        "packagesPath": "C:\\Users\\imran\\.nuget\\packages\\",
+        "outputPath": "D:\\_0All\\dotnet\\az-dev\\onion\\onion-crm\\onion.domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\imran\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
